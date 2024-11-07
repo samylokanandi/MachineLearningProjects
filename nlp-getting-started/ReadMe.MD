@@ -1,4 +1,3 @@
-Here's a concise README for **homework2.ipynb** based on the content:
 
 ---
 
