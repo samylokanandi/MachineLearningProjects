@@ -1,4 +1,3 @@
-Here’s a nicely formatted README for your notebooks:
 
 ---
 
